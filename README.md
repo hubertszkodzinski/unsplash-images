@@ -1,6 +1,6 @@
 ﻿# unsplash-images
 
-It is a simple application that was a project for me to learn TanStack Query.
+It is a simple application that was a project for me to learn TanStack Query. The API I made requests to using axios was https://unsplash.com.
 
 ## Tech Stack
 
