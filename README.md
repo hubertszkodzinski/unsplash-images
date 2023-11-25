@@ -8,4 +8,4 @@ It is a simple application that was a project for me to learn React Query. The A
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/jtIhyoD)
+![App Screenshot](https://i.imgur.com/vLhQr1Z.png)
